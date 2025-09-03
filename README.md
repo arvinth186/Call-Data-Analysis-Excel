@@ -81,4 +81,4 @@ Modify or extend the analysis for your own use case.
 
 ## 📸 Dashboard Screenshot
 
-![Call Data Analysis](Call%Data%Analysis%Excel.png)
+![Call Data Analysis](Call%20Data%20Analysis%20Excel.png)
